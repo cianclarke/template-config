@@ -1056,7 +1056,7 @@
         "imported" : true,
         "appTemplates": [
           {
-            "id": "siteminder-saml-basic",
+            "id": "siteminder-saml-basic-service",
             "imported" : true,
             "name": "SiteMinder Basic-SAML Connector",
             "type": "cloud_nodejs",
