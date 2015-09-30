@@ -1064,7 +1064,12 @@
             "image": "public/img/cloud_plugins/fh.png",
             "docs": "https://raw.githubusercontent.com/cianclarke/Siteminder-Baisc-SAML-Connector/master/README.md",
             "category": "Authentication",
-            "configuration": []
+            "configuration": [
+              {
+                "desc": "The URL of the page which presents basic authentication",
+                "varName": "SAML_URL"
+              }
+            ]
           }
         ]
       },
