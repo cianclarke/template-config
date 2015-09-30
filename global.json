@@ -1053,9 +1053,11 @@
         "image": "public/img/cloud_plugins/fh.png",
         "category": "Authentication",
         "description": "Authenticates directly with SiteMinder over Basic-SAML exchange",
+        "imported" : true,
         "appTemplates": [
           {
             "id": "siteminder-saml-basic",
+            "imported" : true,
             "name": "SiteMinder Basic-SAML Connector",
             "type": "cloud_nodejs",
             "repoUrl": "git://github.com/cianclarke/Siteminder-SAML-Basic.git",
