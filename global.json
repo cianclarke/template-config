@@ -1058,7 +1058,7 @@
             "id": "siteminder-saml-basic",
             "name": "SiteMinder Basic-SAML Connector",
             "type": "cloud_nodejs",
-            "repoUrl": "https://github.com/cianclarke/Siteminder-SAML-Basic.git",
+            "repoUrl": "git://github.com/cianclarke/Siteminder-SAML-Basic.git",
             "githubUrl": "https://github.com/cianclarke/Siteminder-SAML-Basic.git",
             "repoBranch": "refs/heads/master",
             "image": "public/img/cloud_plugins/fh.png",
