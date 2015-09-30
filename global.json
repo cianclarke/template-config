@@ -1060,7 +1060,7 @@
             "type": "cloud_nodejs",
             "repoUrl": "https://github.com/cianclarke/Siteminder-SAML-Basic.git",
             "githubUrl": "https://github.com/cianclarke/Siteminder-SAML-Basic.git",
-            "repoBranch": "master",
+            "repoBranch": "refs/heads/master",
             "image": "public/img/cloud_plugins/fh.png",
             "docs": "https://raw.githubusercontent.com/cianclarke/Siteminder-SAML-Basic/master/README.md",
             "category": "Authentication",
