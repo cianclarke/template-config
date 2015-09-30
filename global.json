@@ -1045,6 +1045,30 @@
         ]
       },
       {
+        "name": "SiteMinder Basic-SAML Connector",
+        "priority": 0.883,
+        "id": "siteminder-saml-basic",
+        "docs": "https://raw.githubusercontent.com/cianclarke/Siteminder-Baisc-SAML-Connector/master/README.md",
+        "type": "other",
+        "image": "public/img/cloud_plugins/fh.png",
+        "category": "Authentication",
+        "description": "Authenticates directly with SiteMinder over Basic-SAML exchange",
+        "appTemplates": [
+          {
+            "id": "siteminder-saml-basic",
+            "name": "SiteMinder Basic-SAML Connector",
+            "type": "cloud_nodejs",
+            "repoUrl": "git://github.com/cianclarke/Siteminder-Baisc-SAML-Connector.git",
+            "githubUrl": "git://github.com/cianclarke/Siteminder-Baisc-SAML-Connector.git",
+            "repoBranch": "refs/tags/master",
+            "image": "public/img/cloud_plugins/fh.png",
+            "docs": "https://raw.githubusercontent.com/cianclarke/Siteminder-Baisc-SAML-Connector/master/README.md",
+            "category": "Authentication",
+            "configuration": []
+          }
+        ]
+      },
+      {
         "id": "salesforce",
         "priority": 0.88,
         "name": "Salesforce Connector",
